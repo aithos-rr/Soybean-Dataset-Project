@@ -3,8 +3,8 @@
 **Corso:** Intelligenza Artificiale 2 – Sapienza Università di Roma (A.A. 2025/2026)
 
 - Riccardo Romano – 2126461  
-- Hera Polegri – matricola 
-- Gabriele – matricola
+- Hera Polegri – 2153537
+- Gabriele Savo – 2158430
 
 ---
 
