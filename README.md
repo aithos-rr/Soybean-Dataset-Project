@@ -59,7 +59,7 @@ Il dataset utilizzato deriva da uno studio sperimentale agronomico sulle cultiva
 * **Target:**  
   `GY` – Grain Yield (resa in granella)
 
-> Nota: la variabile `MHG` nel dataset corrisponde al *Thousand Seed Weight (TSW)*
+> Nota: la variabile `MHG` nel dataset corrisponde al *Thousand Seed Weight-TSW*
 > descritto nel paper di riferimento.
 
 Il file `data.csv` è incluso nella cartella `data/` per garantire la completa riproducibilità
